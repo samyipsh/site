@@ -1,12 +1,12 @@
 # Site settings
-name: Tim Klapdor # your name
+name: Samuel Yip # your name
 header-image: images/home-bg.jpg # image in header
 tagline: "Technology | Design | Education" # your personal tagline 
-city: Wagga Wagga # your city
-country: Australia # your country
-email: tim.klapdor@gmail.com # your email address
-twitter_name: timklapdor # your twitter handle
-github_name:  timklapdor # your github name
+city: Singapore # your city
+country: Singapore # your country
+email: samyipsh@gmail.com # your email address
+#twitter_name: timklapdor # your twitter handle
+github_name:  samyipsh # your github name
 baseurl: "/resume" #base url
 url: # "http://yourdomain.com"
 
