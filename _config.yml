@@ -19,9 +19,9 @@ collections:
     interests:
         output: false
         title: Interest
-    publications:
+    projects:
         output: true
-        title: Publication
+        title: Project
     profile:
         output: false
         title: Profile

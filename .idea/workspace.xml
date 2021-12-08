@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51706ef2-f63f-4463-9081-b4f97d0899f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_award/2016-01-01-sji-ibdp-scholarship.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_education/2012-sji-ib.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_education/2020-computing-degree-nus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_projects/2021-05-01-bakeswitch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_award/2012-11-01-mentoring-program.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_award/2012-12-01-best-project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_award/2014-07-01-vc-award.md" beforeDir="false" afterPath="$PROJECT_DIR$/_award/2014-01-01-edusave-scholarship.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_education/2000-associate-degree.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_education/2006-bachelor-arts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_education/2014-graduate-certificate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2012-11-30-conducting-research.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2014-06-01-mobile-learning-in-e-health.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
