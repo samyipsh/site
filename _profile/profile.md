@@ -1,19 +1,22 @@
 ---
 
 layout: default
-name: Christian Surname
-location: "Somewhere"
-country: Nation
-email: "your.address@email.com"
-twitter: "@meontwitter"
+name: Samuel Yip
+location: "Singapore"
+country: Singapore
+email: samyipsh@email.com"
+
+youtube: "https://www.youtube.com/channel/UC-58DI-JzQfRkOmx9oO5Pfw"
 blog: "https://wordpress.com/"
-linkedin: "http://www.linkedin.com/"
-github: "https://github.com/"
+linkedin: "https://www.linkedin.com/in/samyipsh/
+github: "https://github.com/samyipsh"
 flickr: "https://www.flickr.com/"
-slideshare: "http://slideshare.net/"
+postimages: "https://postimg.cc/gallery/mHBRSSc"
 
 ---
 
-Create an elegant and customisable resume using Jekyll. Built to be simple to edit, update and modify, this Jekyll based site allows you to run your personal resume in public and for free on GitHub pages. Buy your own web domain and for about the cost of a (fancy) coffee you can display your professional identity on the web. 
+Hi, I'm a Computer Science student in my 2nd year of NUS. Welcome to my personal site. 
 
-Liberate yourself from LinkedIn and other resume services by having your own space. Display what information you want and how you want it. You don't need a business card - get a URL!
+I'm currently having fun exploring the different branches of Computer Science. I get quite fascinated by the applications of software and try my best to trick myself to learn more. I'm intrigued by different coding paradigms and practices and hope to be able to find out and personally experience more to grow my abilities.  I'm an easy-going individual who works well with others.
+
+Fun fact: I code best with a cup of ice cream. 
