@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51706ef2-f63f-4463-9081-b4f97d0899f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_projects/2021-09-15-networkus-contact-manager.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2021-05-01-bakeswitch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2021-05-01-bakeswitch.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2021-09-15-networkus-contact-manager.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2021-09-15-networkus-contact-manager.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

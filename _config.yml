@@ -32,7 +32,7 @@ collections:
 # Colour Configuration
 
 colour: 
-    primary: FF9800 # sets the primary link colour
+    primary: FF9800 # sets the primary projects colour
     secondary: 7E8AA2 # sets the hover colour
     text: 1a1a1a # sets text colour
     alternatestripe: 263248 # sets the alternate background stripe
