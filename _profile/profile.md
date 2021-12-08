@@ -1,14 +1,14 @@
 ---
 
 layout: default
-name: Samuel Yip
+name: "Samuel Yip"
 location: "Singapore"
-country: Singapore
-email: samyipsh@email.com"
+country: "Singapore"
+email: "samyipsh@gmail.com"
 
 youtube: "https://www.youtube.com/channel/UC-58DI-JzQfRkOmx9oO5Pfw"
 blog: "https://wordpress.com/"
-linkedin: "https://www.linkedin.com/in/samyipsh/
+linkedin: "https://www.linkedin.com/in/samyipsh/"
 github: "https://github.com/samyipsh"
 flickr: "https://www.flickr.com/"
 postimages: "https://postimg.cc/gallery/mHBRSSc"
