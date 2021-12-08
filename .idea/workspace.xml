@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51706ef2-f63f-4463-9081-b4f97d0899f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_skills/3-frontend-backend.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_interests/interests.md" beforeDir="false" afterPath="$PROJECT_DIR$/_interests/interests.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_skills/1-knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/_skills/1-languages.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_skills/2-desktop-software.md" beforeDir="false" afterPath="$PROJECT_DIR$/_skills/2-software-workflows.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_skills/3-web-systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_skills/3-soft-skills.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_skills/3-soft-skills.md" beforeDir="false" afterPath="$PROJECT_DIR$/_skills/3-soft-skills.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

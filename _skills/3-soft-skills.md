@@ -1,6 +1,6 @@
 ---
 
-title: "Soft skills
+title: "Soft Skills"
 
 --- 
 

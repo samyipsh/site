@@ -1,6 +1,6 @@
 # Site settings
 title: "Samuel Yip"
-tagline: "Chocolate ice-cream results in up to 4x performance optimization"
+tagline: "Ice-cream = 4x performance optimization"
 description: "Welcome to the Resume Builder. You can create your own resume by adding a few markdown files, tweaking values in a a config file and changing some CSS"  
 baseurl: "/site" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
