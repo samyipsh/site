@@ -2,7 +2,7 @@
 
 title: "Meap"
 members: "@samyipsh"
-type: Java application task organizer
+type: Java app task organizer
 period: Aug 2021 - Sep 2021
 link: "https://github.com/samyipsh/ip"
 

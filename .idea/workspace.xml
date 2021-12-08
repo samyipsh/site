@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51706ef2-f63f-4463-9081-b4f97d0899f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_projects/2021-05-01-bakeswitch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_projects/2021-09-15-networkus-contact-manager.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2012-11-30-conducting-research.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2014-06-01-mobile-learning-in-e-health.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2021-08-01-meap-task-manager.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skeleton.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_projects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,6 +42,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samyi\Documents\CS\mySite\_projects" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
