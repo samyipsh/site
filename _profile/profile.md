@@ -17,6 +17,4 @@ postimages: "https://postimg.cc/gallery/mHBRSSc"
 
 Hi, I'm a Computer Science student in my 2nd year of NUS. Welcome to my personal site. 
 
-I'm currently having fun exploring the different branches of Computer Science. I get quite fascinated by the applications of software and try my best to trick myself to learn more. I'm intrigued by different coding paradigms and practices and hope to be able to find out and personally experience more to grow my abilities.  I'm an easy-going individual who works well with others.
-
-Fun fact: I code best with a cup of ice cream. 
+I'm currently having fun exploring the different branches of Computer Science especially in the many introductory mods. I am quite fascinated by the applications of software and try my best to trick myself to learn more. I'm intrigued by the different coding paradigms and am interested to try explore new concepts.  I'm an easy-going individual who works well with others.
