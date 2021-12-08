@@ -4,4 +4,4 @@ title: "Current Hobbies & Interests"
 
 ---
 
-Put your personal hobbies and interests in this sections to show people that your human and at least a little bit normal. 
+Digital Art (Video & Audio editing), Art (Watercolor, Calligraphy) Piano, International Chess, Indoor sports (Billiards, Table Tennis, Badminton, Tennis)
