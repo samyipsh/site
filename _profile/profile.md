@@ -15,6 +15,8 @@ postimages: "https://postimg.cc/gallery/mHBRSSc"
 
 ---
 
-Hi, I'm a Computer Science student in my 2nd year of NUS. Welcome to my personal site. 
+Hi, I'm a Computer Science student in my final year of NUS. Welcome to my personal site. 
 
-I'm currently having fun exploring the different branches of Computer Science especially in the many introductory mods. I am quite fascinated by the applications of software and try my best to trick myself to learn more. I'm intrigued by the different coding paradigms and am interested to try explore new concepts.  I'm an easy-going individual who works well with others.
+It has been said that polishing your code can bring up to 2x improvement, but selecting a better algorithm can lead to better. Dear readers, may I suggest some food for thought? The greatest optimization can be attained if you optimize the source. Treat yourself to a bowl of chocolate ice-cream, it is guaranteed to bring about untold performance improvements :)
+
+Ok but seriously...so abit about me, I'm graduating soon with focus areas in Database and Software Engineering. The applications of coding magic is really cool but independent learning is tough >< I have to try hard to trick myself to learn more. Looking forward to explore more coding paradigms, architectural patterns, and new concepts. I'm an easy-going individual who works well with others!

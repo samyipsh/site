@@ -2,223 +2,196 @@
 layout: default
 ---
 
-<div class="container" align="center">  
-<div class="headline">
-        <p><span>Who Am I?</span></p>
-        <h2>Personal Details</h2>
-</div> 
+<!-- Profile Section -->
+<div class="container" align="center">
+  <div class="headline">
+    <p><span>Who Am I?</span></p>
+    <h2>Personal Details</h2>
+  </div>
+</div>
+<div class="container">
+  {% for profile in site.profile %}
+  <div class="row">
+    <div class="five columns" align="left">
+      <ul class="personal-details">
+        <li><strong>Name </strong>{{ profile.name }}</li>
+        <li><strong>Location </strong>{{ profile.location }}</li>
+        <li><strong>Country </strong>{{ profile.country }}</li>
+        <li>
+          <strong>Email </strong
+          ><a
+            href="mailto:{{ profile.email }}?subject=Hi I saw your resume online"
+            >{{ profile.email }}</a
+          >
+        </li>
+        <li>
+          <strong>Youtube </strong
+          ><a href="{{ profile.youtube }}">Piano Recordings</a>
+        </li>
+        <li>
+          <strong>LinkedIn </strong>
+          <a href="{{ profile.linkedin }}">Profile</a>
+        </li>
+        <li>
+          <strong>GitHub </strong>
+          <a href="{{ profile.github }}">Repositories</a>
+        </li>
+        <li>
+          <strong>Artworks </strong
+          ><a href="{{ profile.postimages }}">Paintings & Digital art</a>
+        </li>
+      </ul>
+    </div>
+    <div class="seven columns">
+      <h3>Professional Profile</h3>
+      {{ profile.content }}
+    </div>
+  </div>
+  {% endfor %}
 </div>
 
-<!-- Profile Section 
-____________________________________________
-_________________________________________ -->
-
-<div class="container">
-{% for profile in site.profile %}
-        <div class="row">
-            <div class="five columns" align="left">
-                <ul class="personal-details">
-
-<!-- Each of these refers to the YAML frontend of the profile.md file. You can create your own or edit these to suit -->
-
-                    <li><strong>Name </strong>{{ profile.name }}</li>
-                    <li><strong>Location </strong>{{ profile.location }}</li>
-                    <li><strong>Country </strong>{{ profile.country }}</li>
-                    <li><strong>Email </strong><a href="mailto:{{ profile.email }}?subject=Hi I saw your resume online">{{ profile.email }}</a></li>
-                    <li><strong>Youtube </strong><a href="{{ profile.youtube }}">Piano Recordings</a></li>
-<!--                    <li><strong>Blog </strong><a href="{{ profile.blog }}">Wordpress</a>-->
-                    <li><strong>LinkedIn </strong> <a href="{{ profile.linkedin }}">Profile</a></li>
-                    <li><strong>GitHub </strong> <a href="{{ profile.github }}">Repositories</a></li>
-<!--                    <li><strong>Flickr </strong><a href="{{ profile.flickr }}">Photos</a></li>-->
-                    <li><strong>Artworks </strong><a href="{{ profile.postimages }}">Paintings & Digital art</a></li>
-                </ul>
-            </div>
-            
-            <div class="seven columns">
-        <h3>Professional Profile</h3>
-        {{ profile.content }}
-    </div>
-    </div>
-
-{% endfor %}
-</div>      
-    
-<section class="u-full-width" id="experience"> 
-
-<!-- Info below is the section heading and tagline -->
-   
-    <div class="container" align="center">  
+<section class="u-full-width" id="experience">
+  <div class="container" align="center">
     <div class="headline" align="center">
-        <p><span>Professional Background</span></p>
-        <h2>Work Experience</h2>
+      <p><span>Professional Background</span></p>
+      <h2>Work Experience</h2>
     </div>
-    </div>
-
-
-    <div class="container">    
-{% for experience in site.experience reversed %}
-
-<!-- Info below is drawn in from the YAML front end -->
-        
+  </div>
+  <div class="container">
+    {% for experience in site.experience reversed %}
     <div class="row">
-            <div class="five columns">
-                <h2 class="date">{{ experience.period }}</h2>
-                <h4 class="employer">{{ experience.employer }}</h4>
-        </div>
-        <div class="seven columns">
-            
-<!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
-            
+      <div class="five columns">
+        <h2 class="date">{{ experience.period }}</h2>
+        <h4 class="employer">{{ experience.employer }}</h4>
+      </div>
+      <div class="seven columns">
         <h3>{{ experience.title }}</h3>
-            {{ experience.content }}
-    </div> 
+        {{ experience.content }}
+      </div>
     </div>
-{% endfor %}
-        
+    {% endfor %}
+  </div>
+</section>
+
+<section class="u-full-width" id="education">
+  <div class="container" align="center">
+    <div class="headline" align="center">
+      <p><span>Learning &amp; Training</span></p>
+      <h2>Education</h2>
     </div>
+  </div>
 
-
-
-</section>    
-
-<section class="u-full-width" id="education"> 
-    <div class="container" align="center">  
-        <div class="headline" align="center">
-            <p><span>Learning &amp; Training</span></p>
-            <h2>Education</h2>
-        </div>
-    </div>
-
-    
-    <div class="container">
-
-{% for education in site.education reversed %}
+  <div class="container">
+    {% for education in site.education reversed %}
     <div class="row">
-            <div class="five columns">
-                <h2 class="date">{{ education.period }}</h2>
-                <h4 class="institution">{{ education.institution }}</h4>
-            </div>
-         <div class="seven columns">
-            <h3>{{ education.title }}</h3>
-        </div>
+      <div class="five columns">
+        <h2 class="date">{{ education.period }}</h2>
+        <h4 class="institution">{{ education.institution }}</h4>
+      </div>
+      <div class="seven columns">
+        <h3>{{ education.title }}</h3>
+      </div>
     </div>
- 
-{% endfor %}                
-    </div>
+    {% endfor %}
+  </div>
 </section>
-    
-<section class="u-full-width" id="awards"> 
-    <div class="container" align="center">  
-        <div class="headline" align="center">
-            <p><span>Recognition</span></p>
-            <h2>Honours &amp; Awards</h2>
-        </div>
-    </div>
-    
-    <div class="container">
 
-{% for award in site.award reversed %}
-    <div class="row">  
-        <div class="five columns">
-                <h2 class="date">{{ award.issued }}</h2>
-                <h4 class="institution">{{ award.issuer }}</h4>
-            </div>
-         <div class="seven columns">
-            <h3>{{ award.title }}</h3>
-        </div>
+<section class="u-full-width" id="awards">
+  <div class="container" align="center">
+    <div class="headline" align="center">
+      <p><span>Recognition</span></p>
+      <h2>Honours &amp; Awards</h2>
     </div>
+  </div>
 
-{% endfor %}    
+  <div class="container">
+    {% for award in site.award reversed %}
+    <div class="row">
+      <div class="five columns">
+        <h2 class="date">{{ award.issued }}</h2>
+        <h4 class="institution">{{ award.issuer }}</h4>
+      </div>
+      <div class="seven columns">
+        <h3>{{ award.title }}</h3>
+      </div>
     </div>
-
+    {% endfor %}
+  </div>
 </section>
-    
+
 <section class="u-full-width" id="projects">
-
-    <div class="container" align="center">  
-        <div class="headline" align="center">
-        <p><span>Experience</span></p>
-        <h2>Projects</h2>
-        </div>
+  <div class="container" align="center">
+    <div class="headline" align="center">
+      <p><span>Experience</span></p>
+      <h2>Projects</h2>
     </div>
-    
-    <div class="container">
-        
-{% for projects in site.projects reversed %}
-    <div class="row">  
-        <div class="five columns">
-                <h2 class="date">{{ projects.period }}</h2>
-                <h4 class="institution">{{ projects.type }}</h4>
-            </div>
-         <div class="seven columns">
-            <h3>{{ projects.title }}</h3>
-        
+  </div>
+
+  <div class="container">
+    {% for projects in site.projects reversed %}
+    <div class="row">
+      <div class="five columns">
+        <h2 class="date">{{ projects.period }}</h2>
+        <h4 class="institution">{{ projects.type }}</h4>
+      </div>
+      <div class="seven columns">
+        <h3>{{ projects.title }}</h3>
+
         <p class="members">{{ projects.members }}</p>
-            
+
         {{ projects.content}}
         <p>
-            <a href="{{ projects.github }}" class="button button-primary">Check it out</a>
-            {% if projects.youtube %}
-                <a href="{{ projects.youtube }}" class="button button-primary">Youtube</a>
-            {% endif %}
+          <a href="{{ projects.github }}" class="button button-primary"
+            >Check it out</a
+          >
+          {% if projects.youtube %}
+          <a href="{{ projects.youtube }}" class="button button-primary"
+            >Youtube</a
+          >
+          {% endif %}
         </p>
-        </div>
+      </div>
     </div>
-        
-{% endfor %}         
- 
-        
-    </div>
-</section>
-    
-<section class="u-full-width" id="skills"> 
-
-    <div class="container" align="center">  
-        <div class="headline" align="center">
-        <p><span>Areas of Expertise</span></p>
-        <h2>Skills</h2>
-        </div>
-    </div>
-    
-    <div class="container">
-        
-{% for skills in site.skills %}
-    <div class="row">  
-        <div class="five columns">
-                <h2 class="date">{{ skills.title }}</h2>
-            </div>
-         <div class="seven columns">
-            {{ skills.content }}
-        </div>
-    </div>
-        
-{% endfor %} 
-    </div>
-    </section>
-
-<section class="u-full-width" id="interests"> 
-
-    <div class="container" align="center">  
-        <div class="headline" align="center">
-        <p><span>Outside</span></p>
-        <h2>Interests</h2>
-        </div>
-    </div>
-    
-    <div class="container">
-
-{% for interests in site.interests %}
-    <div class="row">  
-        <div class="five columns">
-                <h2 class="date">{{ interests.title }}</h2>
-            </div>
-         <div class="seven columns">
-            {{ interests.content }}
-        </div>
-    </div>
-
-{% endfor %} 
-        
-    </div>
+    {% endfor %}
+  </div>
 </section>
 
+<section class="u-full-width" id="skills">
+  <div class="container" align="center">
+    <div class="headline" align="center">
+      <p><span>Areas of Expertise</span></p>
+      <h2>Skills</h2>
+    </div>
+  </div>
+
+  <div class="container">
+    {% for skills in site.skills %}
+    <div class="row">
+      <div class="five columns">
+        <h2 class="date">{{ skills.title }}</h2>
+      </div>
+      <div class="seven columns">{{ skills.content }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="u-full-width" id="interests">
+  <div class="container" align="center">
+    <div class="headline" align="center">
+      <p><span>Outside</span></p>
+      <h2>Interests</h2>
+    </div>
+  </div>
+
+  <div class="container">
+    {% for interests in site.interests %}
+    <div class="row">
+      <div class="five columns">
+        <h2 class="date">{{ interests.title }}</h2>
+      </div>
+      <div class="seven columns">{{ interests.content }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

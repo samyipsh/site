@@ -4,5 +4,5 @@ title: "Programming Languages"
 
 --- 
 
-* (Working knowledge) Java, JavaScript, HTML, CSS
+* (Working knowledge) Go, JavaScript, HTML, CSS, Java
 * (Basic knowledge) C, Unix, Powershell, Python
