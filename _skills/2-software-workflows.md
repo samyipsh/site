@@ -4,5 +4,5 @@ title: "Software Workflows"
 
 --- 
 
-* (Working knowledge) Git, Github, SourceTree, JUnit
+* (Working knowledge) Git, Github, JIRA
 * (Basic knowledge) Gradle
