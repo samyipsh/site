@@ -1,18 +1,9 @@
-# Jekyll Resume Builder
+## Credit
+Jekyll builder: [timklapdor resume builder](https://github.com/timklapdor/resume-builder)
 
-This site started out with the idea of working out how to build a resume with Jekyll. Rather than Pages and Posts it makes use of Collections to populate the single page. 
+## How it works
 
-## The Way it Works
-
-All of the configuration take place in the _config.yml file.
-
-### Site Settings
-
-This set of values allows you to change the main settings heading and tagline of the site - plus set the baseurl (which you might need to change if you rename the directory of where the site is hosted)
-
-### Collections Builder
-
-This area sets up each of the collections currently included in the site. Each of the Outputs is set to false to stop Jekyll from unnecessarily generating additional HTML pages. 
+Configuration is in the _config.yml file.
 
 ### Colour Configuration
 
@@ -20,7 +11,7 @@ Allows you to set all the colours used throughout the site without having to get
 
 ### Folder Structure
 
-Each folder in the site contains a markdown file for each section. For areas like Awards, Education, Experience, Interests, Publications and Skills you can add multiple files. You just need to use the same YAML structure as the dummy sections. 
+Each folder in the site contains a markdown file for each section. Folders of Awards, Education, Experience, Interests, Publications and Skills can contain multiple files. Use the same YAML structure as the dummy sections. 
 
 The Profile section just has a single page. With the profiles listed you can remove or add them from the YAML front end, but you will also need to add/remove them from the index.html
 
@@ -32,6 +23,6 @@ The index file fairly clearly shows how to build a section. I've used IDs and Se
 
 You can swap out the header image by changing the ```bgimage:``` in the config file. Centred images work best for the responsive design. 
 
-## Pointing a URL 
+### Pointing a URL 
 
-This site works great running in GitHub Pages - basically giving you free hosting. You just need to change the branch to ```gh-pages``` and then add in a CNAME file with the domain to the root folder. [Instructions are available here](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+[Github Pages Custom Domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)

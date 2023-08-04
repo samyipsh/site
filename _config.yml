@@ -6,6 +6,7 @@ baseurl: "/site" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 
 # Collections-builder
+# each output is false to stop Jekyll from unnecessarily generating additional HTML pages
 collections:
     award:
         output: false
