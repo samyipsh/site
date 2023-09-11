@@ -3,10 +3,10 @@
 layout: default
 name: "Samuel Yip"
 location: "Singapore"
-country: "Singapore"
 email: "samyipsh@gmail.com"
 
 youtube: "https://www.youtube.com/channel/UC-58DI-JzQfRkOmx9oO5Pfw"
+organ: "https://www.youtube.com/watch?v=T48nllc5mN8&ab_channel=samyipsh"
 blog: "https://wordpress.com/"
 linkedin: "https://www.linkedin.com/in/samyipsh/"
 github: "https://github.com/samyipsh"
