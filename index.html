@@ -16,17 +16,12 @@ layout: default
       <ul class="personal-details">
         <li><strong>Name </strong>{{ profile.name }}</li>
         <li><strong>Location </strong>{{ profile.location }}</li>
-        <li><strong>Country </strong>{{ profile.country }}</li>
         <li>
           <strong>Email </strong
           ><a
             href="mailto:{{ profile.email }}?subject=Hi I saw your resume online"
             >{{ profile.email }}</a
           >
-        </li>
-        <li>
-          <strong>Youtube </strong
-          ><a href="{{ profile.youtube }}">Piano Recordings</a>
         </li>
         <li>
           <strong>LinkedIn </strong>
@@ -39,6 +34,12 @@ layout: default
         <li>
           <strong>Artworks </strong
           ><a href="{{ profile.postimages }}">Paintings & Digital art</a>
+        </li>
+        <li>
+          <strong>Youtube </strong>
+          <a href="{{ profile.youtube }}">Piano Recordings</a>
+          <span>/</span>
+          <a href="{{ profile.organ }}">Organ Recordings</a>
         </li>
       </ul>
     </div>
