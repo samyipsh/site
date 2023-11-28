@@ -10,6 +10,8 @@ youtube: "https://youtu.be/ZavLV5jWn6M"
 
 ---
 
-* Brownfield, group project, github forking and feature workflow 
-* Youtube demo video: https://youtu.be/ZavLV5jWn6M  	 
-* Utilized: Jekyll plugin & Liquid, for Static Site Generation of User and Developer Docs
+- Contact Manager for CS Students.
+- Team Project for CS2103T Software Engineer Module
+- Brownfield Group Project (5 members)
+
+**Used**: Jekyll plugin & Liquid, for Static Site Generation of User and Developer Docs

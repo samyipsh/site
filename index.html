@@ -144,11 +144,15 @@ layout: default
         {{ projects.content}}
         <p>
           <a href="{{ projects.github }}" class="button button-primary"
-            >Check it out</a
+            >Github</a
           >
           {% if projects.youtube %}
           <a href="{{ projects.youtube }}" class="button button-primary"
             >Youtube</a
+          >
+          {% endif %} {% if projects.documentation %}
+          <a href="{{ projects.documentation }}" class="button button-primary"
+            >Docs</a
           >
           {% endif %}
         </p>
