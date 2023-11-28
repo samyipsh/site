@@ -1,8 +1,16 @@
 ---
+title: Software Tooling
+---
 
-title: "Frontend / Backend"
+- **Frontend**
+  - **Libraries / Frameworks**: React, Next, Vue, JavaFX, Jekyll
+  - **Styling**: TailwindCSS, Sass, Bootstrap
 
---- 
-	
-* Frontend framework: React, Bootstrap, JavaFX, Jekyll
-* Backend systems: DynamoDB, SQS, SNS, JIRA, Firebase, Firestore
+- **Backend**
+  - **Systems**: SQS, SNS, EventEmitter, Firebase
+  - **Databases**: PostgreSQL, DynamoDB, Firestore, MongoDB
+
+* **Testing**: 
+	* **JS**: Cypress, Jest, React Testing Library
+	* **C++**: Catch2
+	* **Java**: JUnit
