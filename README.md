@@ -1,5 +1,9 @@
 ## Credit
 Jekyll builder: [timklapdor resume builder](https://github.com/timklapdor/resume-builder)
+```
+jekyll serve 
+jekyll build
+```
 
 ## How it works
 
