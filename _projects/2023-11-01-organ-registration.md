@@ -1,5 +1,5 @@
 ---
-title: "Organ Registration App Prototype"
+title: "OrganRegistration prototype"
 type: "Vue Web App"
 period: Nov 2023
 github: https://github.com/samyipsh/organ-registration
