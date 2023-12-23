@@ -3,7 +3,6 @@ title: "OrganRegistration prototype"
 type: "Vue Web App"
 period: Nov 2023
 github: https://github.com/samyipsh/organ-registration
-youtube: "https://youtube.com/playlist?list=PLAmZn2dHcZ4nsjhqfVEV1GbCUz5tuTzWS"
 
 ---
 

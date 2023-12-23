@@ -1,6 +1,6 @@
 ## Credit
 Jekyll builder: [timklapdor resume builder](https://github.com/timklapdor/resume-builder)
-```
+```bash
 jekyll serve 
 jekyll build
 ```
