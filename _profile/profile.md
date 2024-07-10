@@ -13,10 +13,10 @@ flickr: "https://www.flickr.com/"
 postimages: "https://postimg.cc/gallery/mHBRSSc"
 ---
 
-Hi, I'm a Computer Science student in my final year of NUS. Welcome! 👋🏻
+Hi, I'm Samuel! I'm a NUS Computer Science Graduate, and a Software Developer. Welcome! 👋🏻
 
 It is said that polishing your code can bring up to 2x improvement, but selecting a better algorithm can lead to better. Weary programmer 🧔🏻‍♂️, may I suggest some food for thought? Optimize the source to unlock the greatest optimization. A bowl of ice-cream 🍨 brings about untold performance improvements!
 
-Besides crafting deep and inspiring statements such as the above, I do lots of Software Engineering. It's actually pretty fun and it's my focus area after all 🫠 (other focus area is Database Systems 💾). Coding is great cos you can build lots of cool stuff. I'm trying to get better and have fun at it.
+Besides crafting deep and inspirational statements such as the above, I enjoy building software applications. It's actually pretty fun and it's my focus area after all 🫠 (other focus area is Database Systems 💾). Coding is great cos you can build lots of cool stuff. I'm trying to get better and have fun at it.
 
-I like listening and reading latest updates about all things software but am pretty cautious about being caught in today's trend of overtooling. Oftentimes its so unecessary 😮‍💨. I'm working my way to understand understand lower abstractions, be it framework or languages. React -> Vue -> HTMX? (in due time). Recently just learnt some C++ for a project and looks rly interesting so gonna read more in depth about it. Looks promising so far.
+I like listening and reading latest updates about all things software. I'd be doing more web development, lets see how it goes 👀
