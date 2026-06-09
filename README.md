@@ -5,6 +5,8 @@ jekyll serve
 jekyll build
 ```
 
+Deployment is automatic via GitHub Pages when changes are pushed to `master`.
+
 ## How it works
 
 Configuration is in the _config.yml file.
