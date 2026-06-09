@@ -19,4 +19,4 @@ It is said that polishing your code can bring up to 2x improvement, but selectin
 
 Besides crafting deep and inspirational statements such as the above, I enjoy building software applications. It's actually pretty fun and it's my focus area after all 🫠 (other focus area is Database Systems 💾). Coding is great cos you can build lots of cool stuff. I'm trying to get better and have fun at it.
 
-I like listening and reading latest updates about all things software. I'd be doing more web development, lets see how it goes 👀
+~~I like listening and reading latest updates about all things software. I'd be doing more web development, lets see how it goes 👀~~ Ok so after 2 years I now get the gist of organization software – the woes of communication cost and lack of deep knowledge. I'll try to be doing more stable software engineering, not blindly adopting bleeding edge stuff but trying to prioritise maintainability which means focusing on stable fundamentals.
